@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051307527698",
+    "project_id": "projetoandroid-dee09",
+    "storage_bucket": "projetoandroid-dee09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051307527698:android:335b4f114a505a66f3d2cb",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFt3wUH89aoT2Bp9h0Ut517DLva4qfJS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
